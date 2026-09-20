@@ -6,7 +6,18 @@ A unified citizen-facing platform that automatically links government identity (
 
 ---
 
-##  Quick Start
+## Live Demo (Render)
+
+| Service | URL |
+|---|---|
+| **Frontend** | https://familyconnect-9y99.onrender.com |
+| **Backend API + Swagger** | https://familyconnect-backend-3r7q.onrender.com/api/docs |
+| **Mock Aadhaar Service** | https://familyconnect-mock-aadhaar.onrender.com |
+| **Mock Ration Service** | https://familyconnect-mock-ration.onrender.com |
+
+---
+
+## Quick Start (Local)
 
 **Prerequisites:** Docker & Docker Compose
 
@@ -16,7 +27,7 @@ cd Pravi-Hackthon
 docker compose up --build
 ```
 
-| Service | URL |
+| Service | Local URL |
 |---|---|
 | Frontend | http://localhost:5173 |
 | Backend API + Swagger | http://localhost:8000/api/docs |
