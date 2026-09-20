@@ -24,3 +24,114 @@ dist-ssr
 *.sw?
 venv
 .env
+```gitignore
+# =========================
+# Python
+# =========================
+*/__pycache__/
+*__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+pytestdebug.log
+
+# =========================
+# Type Checking / Linters
+# =========================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.ruff_cache/
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+wheels/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Local Database / Data
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+
+# =========================
+# Alembic
+# Keep migration files tracked.
+# =========================
+
+# =========================
+# OS
+# =========================
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+```
