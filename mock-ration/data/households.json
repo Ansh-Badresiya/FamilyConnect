@@ -1,0 +1,191 @@
+[
+  {
+    "ration_card_number": "739258146203",
+    "state": "Gujarat",
+    "address": {
+      "district": "Surendranagar",
+      "taluka": "Wadhwan",
+      "village": "Wadhwan City",
+      "pincode": "363035"
+    },
+    "annual_income": 180000,
+    "category": "BPL",
+    "members": [
+      { "person_reference": "PERSON-10001", "name": "Rajesh Patel", "date_of_birth": "1975-03-12", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10002", "name": "Meena Patel", "date_of_birth": "1978-08-21", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10003", "name": "Rahul Patel", "date_of_birth": "2004-07-15", "relationship": "SON" },
+      { "person_reference": "PERSON-10004", "name": "Priya Patel", "date_of_birth": "2007-11-30", "relationship": "DAUGHTER" }
+    ]
+  },
+  {
+    "ration_card_number": "581426937105",
+    "state": "Gujarat",
+    "address": {
+      "district": "Ahmedabad",
+      "taluka": "Daskroi",
+      "village": "Narol",
+      "pincode": "382405"
+    },
+    "annual_income": 480000,
+    "category": "APL",
+    "members": [
+      { "person_reference": "PERSON-10005", "name": "Suresh Shah", "date_of_birth": "1965-06-20", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10006", "name": "Kamla Shah", "date_of_birth": "1968-09-14", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10007", "name": "Vikram Shah", "date_of_birth": "1995-02-28", "relationship": "SON" }
+    ]
+  },
+  {
+    "ration_card_number": "864219573048",
+    "state": "Gujarat",
+    "address": {
+      "district": "Surat",
+      "taluka": "Surat City",
+      "village": "Varachha",
+      "pincode": "395006"
+    },
+    "annual_income": 250000,
+    "category": "BPL",
+    "members": [
+      { "person_reference": "PERSON-10008", "name": "Anita Mehta", "date_of_birth": "1980-12-05", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10009", "name": "Harish Mehta", "date_of_birth": "1977-04-18", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10010", "name": "Divya Mehta", "date_of_birth": "2005-08-22", "relationship": "DAUGHTER" }
+    ]
+  },
+  {
+    "ration_card_number": "315792684201",
+    "state": "Gujarat",
+    "address": {
+      "district": "Vadodara",
+      "taluka": "Vadodara",
+      "village": "Manjalpur",
+      "pincode": "390011"
+    },
+    "annual_income": 320000,
+    "category": "APL",
+    "members": [
+      { "person_reference": "PERSON-10011", "name": "Ramesh Desai", "date_of_birth": "1960-01-15", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10012", "name": "Savita Desai", "date_of_birth": "1963-07-09", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10013", "name": "Amit Desai", "date_of_birth": "1990-03-27", "relationship": "SON" }
+    ]
+  },
+  {
+    "ration_card_number": "927461835029",
+    "state": "Gujarat",
+    "address": {
+      "district": "Rajkot",
+      "taluka": "Rajkot",
+      "village": "Rajkot City",
+      "pincode": "360001"
+    },
+    "annual_income": 200000,
+    "category": "BPL",
+    "members": [
+      { "person_reference": "PERSON-10014", "name": "Nilam Joshi", "date_of_birth": "1985-10-11", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10015", "name": "Dinesh Joshi", "date_of_birth": "1982-05-03", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10016", "name": "Pooja Joshi", "date_of_birth": "2008-02-14", "relationship": "DAUGHTER" }
+    ]
+  },
+  {
+    "ration_card_number": "483726914058",
+    "state": "Gujarat",
+    "address": {
+      "district": "Gandhinagar",
+      "taluka": "Gandhinagar",
+      "village": "Sector 21",
+      "pincode": "382021"
+    },
+    "annual_income": 150000,
+    "category": "BPL",
+    "members": [
+      { "person_reference": "PERSON-10017", "name": "Gopal Sharma", "date_of_birth": "1955-11-28", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10018", "name": "Lata Sharma", "date_of_birth": "1959-06-17", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10019", "name": "Ravi Sharma", "date_of_birth": "1988-09-05", "relationship": "SON" },
+      { "person_reference": "PERSON-10020", "name": "Sunita Sharma", "date_of_birth": "1991-12-20", "relationship": "DAUGHTER" }
+    ]
+  },
+  {
+    "ration_card_number": "651839204712",
+    "state": "Gujarat",
+    "address": {
+      "district": "Anand",
+      "taluka": "Anand",
+      "village": "Anand City",
+      "pincode": "388001"
+    },
+    "annual_income": 290000,
+    "category": "APL",
+    "members": [
+      { "person_reference": "PERSON-10021", "name": "Bharat Parmar", "date_of_birth": "1970-07-08", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10022", "name": "Rekha Parmar", "date_of_birth": "1973-04-25", "relationship": "SPOUSE" },
+      { "person_reference": "PERSON-10023", "name": "Kiran Parmar", "date_of_birth": "2000-01-31", "relationship": "DAUGHTER" }
+    ]
+  },
+  {
+    "ration_card_number": "728401936574",
+    "state": "Gujarat",
+    "address": {
+      "district": "Mehsana",
+      "taluka": "Visnagar",
+      "village": "Visnagar Town",
+      "pincode": "384315"
+    },
+    "annual_income": 420000,
+    "category": "APL",
+    "members": [
+      { "person_reference": "PERSON-10024", "name": "Ajay Trivedi", "date_of_birth": "1992-08-16", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10025", "name": "Mala Trivedi", "date_of_birth": "1995-03-09", "relationship": "SPOUSE" }
+    ]
+  },
+  {
+    "ration_card_number": "346918275043",
+    "state": "Gujarat",
+    "address": {
+      "district": "Bharuch",
+      "taluka": "Bharuch",
+      "village": "Bharuch City",
+      "pincode": "392001"
+    },
+    "annual_income": 110000,
+    "category": "BPL",
+    "members": [
+      { "person_reference": "PERSON-10026", "name": "Deepak Chaudhary", "date_of_birth": "1967-10-22", "relationship": "HEAD" },
+      { "person_reference": "PERSON-10027", "name": "Geeta Chaudhary", "date_of_birth": "1971-02-07", "relationship": "SPOUSE" }
+    ]
+  },
+  {
+    "ration_card_number": "893627104815",
+    "state": "Gujarat",
+    "address": {
+      "district": "Kheda",
+      "taluka": "Nadiad",
+      "village": "Nadiad",
+      "pincode": "387001"
+    },
+    "annual_income": 175000,
+    "category": "BPL",
+    "members": [
+      {
+        "person_reference": "PERSON-10028",
+        "name": "Vinod Thakor",
+        "date_of_birth": "1963-05-14",
+        "relationship": "HEAD",
+        "NOTE": "DEMO-MISMATCH: DOB here is 1963-05-14, but Aadhaar has 1962-05-14"
+      }
+    ]
+  },
+  {
+    "ration_card_number": "512374869230",
+    "state": "Gujarat",
+    "address": {
+      "district": "Patan",
+      "taluka": "Patan",
+      "village": "Patan City",
+      "pincode": "384265"
+    },
+    "annual_income": 230000,
+    "category": "BPL",
+    "members": [
+      { "person_reference": "PERSON-10029", "name": "Poonam Solanki", "date_of_birth": "1987-11-03", "relationship": "HEAD" }
+    ]
+  }
+]
