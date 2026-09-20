@@ -22,6 +22,9 @@ services:
       - "8001:8000"
     volumes:
       - ./mock-aadhaar:/app
+    environment:
+      - SERVICE_NAME=Mock Aadhaar Identity Service
+      - DATA_PATH=/app/data/citizens.json
 
   mock-ration:
     build:
@@ -30,6 +33,9 @@ services:
       - "8002:8000"
     volumes:
       - ./mock-ration:/app
+    environment:
+      - SERVICE_NAME=Mock Ration Household Service
+      - DATA_PATH=/app/data/households.json
 
   backend:
     build:

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useAuth } from '../hooks/useAuth';
 import api from '../services/api';
-import { Shield, Search, ArrowRight } from 'lucide-react';
+import { Shield, ArrowRight } from 'lucide-react';
 
 const Home = () => {
   const [aadhaar, setAadhaar] = useState('');

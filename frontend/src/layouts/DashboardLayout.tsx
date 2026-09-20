@@ -1,5 +1,4 @@
-import React from 'react';
-import { Outlet, Link, useLocation, useNavigate } from 'react-router-dom';
+import { Outlet, Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../hooks/useAuth';
 import { Users, FileText, Shield, LogOut, ClipboardList, RefreshCcw } from 'lucide-react';
 

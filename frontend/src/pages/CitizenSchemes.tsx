@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import api from '../services/api';
 import type { EligibilityResult } from '../types';
 import { CheckCircle, XCircle } from 'lucide-react';
@@ -63,7 +63,7 @@ const CitizenSchemes = () => {
                   {res.eligible ? <CheckCircle className="text-green-500 mt-1" size={24} /> : <XCircle className="text-red-500 mt-1" size={24} />}
                   <div>
                     <h3 className="text-xl font-bold text-gray-800">{res.scheme_name}</h3>
-                    <p className="text-gray-600 mt-2">{res.benefit_description}</p>
+                    <p className="text-gray-600 mt-2">{res.description}</p>
                     
                     <div className="mt-4">
                       {res.matched_rules.length > 0 && (

@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import api from '../services/api';
 import type { Family, EligibilityResult, Application } from '../types';
 import { Edit2, X, CheckCircle, XCircle, FileText, AlertCircle, Lock, RefreshCcw, UserPlus, UserMinus } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
 
 const CitizenDashboard = () => {
   const [family, setFamily] = useState<Family | null>(null);
@@ -12,7 +11,6 @@ const CitizenDashboard = () => {
 
   const [resolving, setResolving] = useState(false);
   const [resolveError, setResolveError] = useState('');
-  const navigate = useNavigate();
 
   // Change Request State
   const [showChangeRequest, setShowChangeRequest] = useState(false);
